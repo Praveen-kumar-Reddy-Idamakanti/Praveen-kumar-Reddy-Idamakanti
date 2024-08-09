@@ -1,0 +1,30 @@
+def binarySearch(l,x):
+    midposition=1
+    def midvalue(l):
+         midposition=len(l)/2
+         midposition=int(midposition)
+         mid=l[midposition]
+         print(mid)
+    def leftList():
+        lList=[]
+        for i in range(0,midposition):
+            lList.append(l[i])
+    
+    def rightList():
+        rList=[]
+        for i in range(midposition,-1):
+            rList.append(l[i])
+    
+    midvalue(l)
+    print(mid)
+    print(x)
+    if x==mid:
+        print("Iam middle value")
+    elif x<mid:
+        leftList()
+        binarySearch(lList,x)
+        print("iamleft")
+   
+    
+    
+binarySearch([2,3,4,5,6],2)
