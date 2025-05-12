@@ -2,9 +2,9 @@
 <h3 align="center">Cybersecurity Enthusiast | Full Stack Developer | CSE @ MGR University</h3>
 
 <p align="center">
-  <a href="mailto:praveenidamakanti2425@gmail.com"><img src="https://img.shields.io/badge/Email-praveenidamakanti2425@gmail.com-red?style=flat-square&logo=gmail"> </a>
-  <a href="https://www.linkedin.com/in/praveen-kumar-reddy-idamakanti-b35058247"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"> </a>
-  <a href="https://leetcode.com/u/praveen4516/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode"> </a>
+  <a href="mailto:praveenidamakanti2425@gmail.com"> <img src="https://img.shields.io/badge/Email-praveenidamakanti2425@gmail.com-red?style=flat-square&logo=gmail"> </a>
+  <a href="https://www.linkedin.com/in/praveen-kumar-reddy-idamakanti-b35058247"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"> </a>
+  <a href="https://leetcode.com/u/praveen4516/"> <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode"> </a>
 </p>
 
 ---
